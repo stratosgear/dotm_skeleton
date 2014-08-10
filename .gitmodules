@@ -1,0 +1,3 @@
+[submodule "dotm"]
+	path = dotm
+	url = https://github.com/stratosgear/dotm
