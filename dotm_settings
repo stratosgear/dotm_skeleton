@@ -1,0 +1,7 @@
+#!/bin/bash
+
+dotm_dotDir=$HOME/dotfiles
+dotm_masterRepository=https://github.com/stratosgear/dotfiles.git
+
+# comma delimited list for only creating a minimal set of symlinks
+dotm_minimalSymlinkFiles=".vimrc,.gitconfig"
